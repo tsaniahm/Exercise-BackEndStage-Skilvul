@@ -1,0 +1,9 @@
+ 1. mkdir express-project
+ 2. cd express-project
+ 3. npm init -y
+ 4. npm install express -save
+
+curl adalah method get di command kayaknya linux aja tapi aku kok bisa kemarin
+
+get metode : curl -XGET http:localhost:300/users
+post metode : curl -XPOST http://localhost:3000/users
